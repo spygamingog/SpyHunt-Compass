@@ -1,0 +1,13 @@
+name: SpyHunt-Compass
+version: 1.0.0
+main: com.spygamingog.spyhuntcompass.SpyHuntCompass
+api-version: 1.21
+authors: [SpyGamingOG]
+description: Standalone Manhunt Compass Tracker
+commands:
+  tracker:
+    description: Manage your tracking compass
+    usage: /tracker [help|add|remove]
+  track:
+    description: Track a player directly
+    usage: /track <player>
