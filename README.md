@@ -17,7 +17,6 @@
 - **Auto-Inventory Management**: 
   - Automatically gives a compass if the player doesn't have one.
   - Updates existing compasses in the inventory.
-- **Privacy Focused**: Player names are **hidden** from tab completion when adding/removing targets to prevent meta-gaming via command suggestions.
 
 ## 📜 Commands
 
